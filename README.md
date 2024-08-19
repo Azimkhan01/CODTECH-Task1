@@ -1,8 +1,13 @@
 **Name:** Azimuddeen Mojebur Rahman Khan
+
 **Company:** CODTECH IT SOLUTIONS 
+
 **ID:** CT08DS7047
+
 **DOMAIN:** WEB DEVELOMENT
+
 **DURATION:** AUGUST TO SEPTEMBER 2024
+
 **MENTOR:** Neela Santhosh Kumar
 
 ## OVERVIEW OF PROJECT
