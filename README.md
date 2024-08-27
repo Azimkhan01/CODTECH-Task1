@@ -60,4 +60,6 @@ Error Handling: Implementing error messages and validation improves the reliabil
 ![CODETECH5](https://github.com/user-attachments/assets/ef71da89-d8dd-4100-88b1-b375100f9dc4)
 ![CODEETECH6](https://github.com/user-attachments/assets/4a6c8662-9dc8-4955-828e-19fc81852fb6)
 ![CODETECH7](https://github.com/user-attachments/assets/8bdb19d5-588c-4c98-a96f-26a7e155b339)
+![DOETECH9](https://github.com/user-attachments/assets/7d40e63f-214a-4121-a52a-bab0cac5a984)
+![CODETECH8](https://github.com/user-attachments/assets/876e2b98-ab1a-4850-951c-0ee192fc76bf)
 
