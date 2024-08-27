@@ -51,3 +51,5 @@ User Interaction: Providing clear feedback and interactive elements (like modals
 Data Management: Using arrays to manage task data allows for easy updates and deletions, but it’s important to handle edge cases, such as invalid input or non-existent task numbers.
 Error Handling: Implementing error messages and validation improves the reliability of the application and guides users in case of mistakes.
 
+![CODETECH7](https://github.com/user-attachments/assets/b20d0f85-70ff-4650-b686-1f0e1763042b)
+
